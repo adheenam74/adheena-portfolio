@@ -17,7 +17,8 @@ This section highlights my field exposure and practical learning experiences dur
 
 ## 2. Uppinangadi Police Station – Block Field Placement
 **Duration:** 15 Days  
-**Location:** Karnataka 
+**Location:** Karnataka  
+
 **Overview:**  
 - Gained hands-on exposure to police station functioning  
 - Observed documentation standards  
