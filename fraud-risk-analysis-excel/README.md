@@ -66,3 +66,10 @@ All analysis, formulas, pivots, charts, and interpretations were done manually.
 
 This project is part of my learning and portfolio development.
 
+ --- 
+ 
+## 📁 Project File
+
+Click below to view or download the Excel project:
+
+[**Download Fraud_Risk_Analysis_Excel_Project_AdheenaM.xlsx**](Fraud_Risk_Analysis_Excel_Project_AdheenaM.xlsx)
