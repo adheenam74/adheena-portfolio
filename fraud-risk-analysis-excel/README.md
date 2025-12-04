@@ -73,3 +73,5 @@ This project is part of my learning and portfolio development.
 Click below to view or download the Excel project:
 
 [**Download Fraud_Risk_Analysis_Excel_Project_AdheenaM.xlsx**](Fraud_Risk_Analysis_Excel_Project_AdheenaM.xlsx)
+
+ Click here to view the dashboard : Fraud_Risk_Dashboard_AdheenaM.pdf
