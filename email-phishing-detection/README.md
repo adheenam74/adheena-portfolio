@@ -23,7 +23,7 @@ Identify suspicious or phishing emails using:
 
 - Data cleaning and preparation  
 - Creation of phishing indicators:
-  - Suspicious domain (typosquatting)
+  - Suspicious domain 
   - Urgent keyword presence
   - Attachments
   - Embedded links  
@@ -47,8 +47,16 @@ Identify suspicious or phishing emails using:
 
 ## 📁 Project Files
 
-| File | Description |
-|------|-------------|
-| **Email_Phishing_Detection_Excel_Project.xlsx** | Complete Excel project with formulas, indicators, pivots, and scoring |
-| **Email_Phishing_Detection_Dashboard.pdf** | Final visual dashboard summarizing risk |
+[Download Excel Project](./Email_Phishing_Detection_Excel_Project.xlsx)
 
+[Download Dashboard](./Email_Phishing_Detection_Dashboard.pdf) 
+
+ --- 
+
+ ## 🧾 Transparency
+
+This is a simulated project created for skill-building in cybersecurity, digital forensics, fraud analysis, and portfolio development.
+
+ChatGPT was used *only for conceptual explanation and guidance*.  
+All Excel work — formulas, pivots, flags, charts, and dashboard design — was created manually.
+ 
