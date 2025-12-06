@@ -1,1 +1,49 @@
+# Email Phishing Detection — Excel Project
 
+This project demonstrates how phishing attempts can be identified using simple rule-based detection techniques in Microsoft Excel.
+
+--- 
+ 
+## Objective 
+
+- Identify suspicious or phishing emails using:
+- Domain analysis
+- Urgent keyword detection
+- Link presence
+- Attachment checks
+- Risk scoring
+- Conditional formatting
+- PivotTables & dashboards 
+
+---
+
+## Techniques Used
+ 
+- Data cleaning
+- Phishing indicator creation (domain, keywords, links, attachments)
+- Weighted Risk Scoring
+- Conditional formatting for high-risk emails
+- Pivot-based summary
+- Dashboard creation 
+
+---
+
+##Key Insights
+
+- 3 high-risk emails detected
+- Suspicious domains (e.g., amaz0n-support.com, micros0ft-check.com) observed
+- Urgent keywords such as "urgent", "verify", "action required" flagged
+- Majority of emails were safe, but several required further investigation 
+
+---
+
+## Project Files
+[**Download Excel project — Email_Phishing_Detection_Excel_Project.xlsx**](Email_Phishing_Detection_Excel_Project.xlsx)  
+[**Download Dashboard — Email_Phishing_Detection_Dashboard.pdf**](Email_Phishing_Detection_Dashboard.pdf)   
+
+---
+
+## Transparency
+
+This is a simulated project created by Adheena M for skill-building in cybersecurity, fraud analysis, and portfolio development.
+ChatGPT was used only for conceptual guidance — all spreadsheets, formulas, pivots, charts, and interpretations were created manually.
