@@ -6,15 +6,6 @@ Both reports were created as part of cybersecurity, fraud detection, and digital
 
 ---
 
-## 📂 Project Files
-
-To view or download, click:
-
-- [Manual Email Header Analysis](./Email_Header_Analysis.pdf)  
-- [Tool-Based Email Header Analysis](./Email_Header_Tool_Analysis.pdf)  
-
----
-
 ## 🎯 Objectives of This Project
 
 - Understand how email headers reveal sender identity and routing  
@@ -65,7 +56,16 @@ To view or download, click:
 - Routing: Valid and consistent  
 - Conclusion: **Authentic communication**
 
----
+--- 
+
+## 📂 Project Files
+
+To view or download, click:
+
+- [Manual Email Header Analysis](./Email_Header_Analysis.pdf)  
+- [Tool-Based Email Header Analysis](./Email_Header_Tool_Analysis.pdf)
+
+--- 
 
 ## 📖 Transparency
 
