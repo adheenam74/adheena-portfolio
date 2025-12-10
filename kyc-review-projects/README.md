@@ -14,7 +14,7 @@ A simple simulated KYC review including:
 - Final outcomes: one approval and one rejection  
 
 🔗 **View report:**  
-[KYC_Review_Approved_and_Rejected_Report.pdf](./KYC_Case_01/KYC_Review_Approved_and_Rejected_Report.pdf)
+[KYC_Review_Approved_and_Rejected_Report.pdf](./KYC_Case_01KYC_Review_Approved_and_Rejected_Report.pdf)
 
 ---
 
